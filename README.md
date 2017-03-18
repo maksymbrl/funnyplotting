@@ -11,7 +11,6 @@ Notebook Page 1: Name is '2D'. It Here you can create a 2D plot, with a given (y
                  'Erase' button will erase your graph.
                  'Save' button will save your graph in to the same directory as the programs files (!).
                  'X' button(s) will delete the text from the TextCtrls.
-                 
                  Also there are 'Advanced' settings which allows you to choose your graphs output parameters, such as Color and LineStyle
 
 Notebook Page 2: Name is '3D'. The structure is similar to that you have in '2D': we have Buttons 'Plot', 'Erase' and 'Save' and also the
