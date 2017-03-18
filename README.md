@@ -5,7 +5,7 @@ Description:
 Created by Maxim Brilenkov at the Innsbruck University on January 2017
 
 Notebook Page 1: Name is '2D'. It Here you can create a 2D plot, with a given (your function). For this just type your function in the first
-                 TextCtrl. Besure to type special function (e.g. cos, sin, exp etc.) using np. extention. For instance: np.exp(x). Also be sure that you typed some math operations like '^' correctly (for '^' it is '**', i.e. x^2 should be typed like x**2).
+                 TextCtrl. Besure to type special function (e.g. cos, sin, exp etc.) using np. extention. For instance: np.exp(x). Also be sure that you typed some math operations like '^' correctly (for '^' it is '**', i.e. x^2 should be typed like x ** 2).
                  There are other TextCtrls, which are for defining the range of the plot (x from 'some value' to 'some value').
                  'Plot' button will plot your function in the canvas on the left.
                  'Erase' button will erase your graph.
