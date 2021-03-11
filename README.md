@@ -2,7 +2,7 @@
 
 Description:
 
-Created by Maxim Brilenkov at the Innsbruck University on January 2017
+Created by Maksym Brilenkov at the Innsbruck University on January 2017
 
 Notebook Page 1: Name is '2D'. It Here you can create a 2D plot, with a given (your function). For this just type your function in the first
                  TextCtrl. Besure to type special function (e.g. cos, sin, exp etc.) using np. extention. For instance: np.exp(x). Also be sure that you typed some math operations like '^' correctly (for '^' it is '**', i.e. x^2 should be typed like x ** 2).
@@ -20,18 +20,18 @@ Notebook Page 2: Name is '3D'. The structure is similar to that you have in '2D'
 INSTALLATION NOTES
 
 To install the code in your computer, you need first to install the anaconda python (https://www.continuum.io/downloads). 
-You will have to use the Python 2.x distribution since the code uses wxpython which is still not ported to Python 3.
+You will have to use the `Python 2.x` distribution since the code uses `wxpython` which is still not ported to `Python 3`.
 
 Then clone the repository: git clone https://github.com/hroney/funnyplotting.git
 
 Build the conda package: conda build funnyplotting
 
 And install it locally:
-
+```
 conda install --use-local funnyplotting
-
+```
 At this point you can start the code everywhere by typing:
-
+```
 funnyplotting
-
-since the executable is in the ~/anaconda/bin directory.
+```
+since the executable is in the `~/anaconda/bin` directory.
